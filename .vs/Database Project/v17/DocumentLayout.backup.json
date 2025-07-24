@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|f:\\maaz dha suffa\\4th semester\\database  systems\\database project final\\database project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|f:\\maaz dha suffa\\4th semester\\database  systems\\database project final\\database project\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form4.Designer.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.Designer.cs",
+              "RelativeToolTip": "Database Project\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:00:04.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form1.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form1.cs",
+              "RelativeToolTip": "Database Project\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:18:41.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form4.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs",
+              "RelativeToolTip": "Database Project\\Form4.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:27:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form3.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form3.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form3.cs",
+              "RelativeToolTip": "Database Project\\Form3.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:59:19.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Registration.cs",
+              "RelativeDocumentMoniker": "Database Project\\Registration.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Registration.cs",
+              "RelativeToolTip": "Database Project\\Registration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:21:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form4.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs [Design]",
+              "RelativeToolTip": "Database Project\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:02:59.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form2.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Database Project\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:52:03.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Program.cs",
+              "RelativeDocumentMoniker": "Database Project\\Program.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Program.cs",
+              "RelativeToolTip": "Database Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:00:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Student.cs",
+              "RelativeDocumentMoniker": "Database Project\\Student.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Student.cs",
+              "RelativeToolTip": "Database Project\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:48:47.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Database Project\\Form2.cs",
+              "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form2.cs",
+              "RelativeToolTip": "Database Project\\Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwFYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:15:06.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
