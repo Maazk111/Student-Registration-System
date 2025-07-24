@@ -81,8 +81,14 @@ _Add screenshots in `/screenshots/` and update the image paths above._
 ## 👨‍💻 Developed By
 
 - **Maaz Khan**
-- **4th Semester - Database Project**
-- **DHA Suffa University**
+- **Shayan Adnan**
+- **Farrukh Iqbal**
+- **Mahnoor Arshad**
+- **Hafiz Minhal Ali**
+
+🎓 **4th Semester - Database Project**  
+🏫 **DHA Suffa University**
+
 
 ---
 
