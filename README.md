@@ -63,7 +63,7 @@ Student-Registration-System/
 | ------------------------------------- | --------------------------------- | --------------------------------- |
 | ![Register](screenshots/register.png) | ![Search](screenshots/search.png) | ![Update](screenshots/update.png) |
 
-_Add screenshots in `/screenshots/` and update the image paths above._
+
 
 ---
 
