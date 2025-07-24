@@ -76,8 +76,6 @@ _Add screenshots in `/screenshots/` and update the image paths above._
 
 ---
 
-
-
 ## 👨‍💻 Developed By
 
 - **Maaz Khan**
@@ -89,9 +87,11 @@ _Add screenshots in `/screenshots/` and update the image paths above._
 🎓 **4th Semester - Database Project**  
 🏫 **DHA Suffa University**
 
-
 ---
 
-## 📄 License
+## 🧾 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+> 📘 **Note:** This project is developed purely for **educational purposes** as part of a 4th Semester Database course at **DHA Suffa University**.  
+> It is not intended for commercial use or real-world deployment.
