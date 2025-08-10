@@ -25,7 +25,7 @@ Built as a 4th semester **Database Project** at **DHA Suffa University**.
 | ------------- | --------------------- |
 | C# (.NET)     | Windows Forms UI      |
 | SQL Server    | Backend database      |
-| DOT.NET       | Database connectivity |
+| .NET       | Database connectivity |
 | Visual Studio | Project IDE           |
 
 ---
