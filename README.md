@@ -1,49 +1,42 @@
 # 🎓 Student Registration Management System
 
-A Windows Forms-based desktop application developed in **C# (.NET)** with **SQL Server** to manage student records.  
-Built as a 4th semester **Database Project** at **DHA Suffa University**.
+A Windows Forms desktop application built in **C# (.NET)** with **SQL Server** to manage student records.  
+Developed as a 4th semester **Database Project** at **DHA Suffa University**.
 
 ---
 
 ## 🚀 Features
-
-- 🔹 Register new students with auto-generated unique IDs
-- 🔹 Update student details from a dedicated update form
-- 🔹 Search for students by **Name** or **Phone Number**
-- 🔹 Delete records with confirmation via **DataGridView double-click**
-- 🔹 Interactive GUI using:
+- Auto-generated unique IDs for new student registrations  
+- Update student details via a dedicated update form  
+- Search by **Name** or **Phone Number**  
+- Delete records with confirmation through **DataGridView double-click**  
+- Interactive GUI using:
   - TextBoxes, ComboBoxes, Radio Buttons, CheckBoxes
-  - PictureBox for profile image or branding
-  - DataGridView for displaying students
-- 🔹 Structured database design with at least **3 separate tables**
+  - PictureBox for profile image/branding
+  - DataGridView for displaying students  
+- Structured database with **3+ normalized tables**
 
 ---
 
-## 🛠️ Technologies Used
-
+## 🛠️ Technologies
 | Technology    | Purpose               |
 | ------------- | --------------------- |
-| C# (.NET)     | Windows Forms UI      |
+| C# (.NET)     | Windows Forms UI + database connectivity |
 | SQL Server    | Backend database      |
-| .NET       | Database connectivity |
-| Visual Studio | Project IDE           |
+| Visual Studio | Development IDE       |
 
 ---
 
-## 🧩 Database Schema Overview
+## 🧩 Database Design
+- **Students** – personal details  
+- **Contacts** – phone, email  
+- **Addresses** – city, region, address  
 
-The database is normalized into at least **3 tables**, based on the case study:
-
-- `Students` – personal details
-- `Contacts` – phone, email
-- `Addresses` – city, region, address
-
-All data operations (Insert, Update, Delete, Search) are performed using .NET.
+Supports **Insert, Update, Delete, Search** operations through .NET.
 
 ---
 
 ## 📸 Screenshots
-
 | Register Form                         | Search Student                    | Update Form                       |
 | ------------------------------------- | --------------------------------- | --------------------------------- |
 | ![Register](screenshots/register.png) | ![Search](screenshots/search.png) | ![Update](screenshots/update.png) |
@@ -51,21 +44,28 @@ All data operations (Insert, Update, Delete, Search) are performed using .NET.
 ---
 
 ## ✅ How to Run
+1. Open the solution in **Visual Studio**  
+2. Update the SQL Server connection string in `App.config`  
+3. Press **F5** or click **Start** to run  
+4. Ensure your SQL Server database is active  
 
-1. Open the solution in **Visual Studio**
-2. Update the SQL Server connection string in `App.config`
-3. Press `Start` or `F5` to run the application
-4. Make sure your database is up and running
+---
+
+## 💡 Skills Demonstrated
+- Windows Forms UI design in C#  
+- SQL Server database design & normalization  
+- CRUD operations in .NET  
+- Event-driven programming  
+- Data binding in **DataGridView**  
 
 ---
 
 ## 👨‍💻 Developed By
-
-- **Maaz Khan**
-- **Shayan Adnan**
-- **Farrukh Iqbal**
-- **Mahnoor Arshad**
-- **Hafiz Minhal Ali**
+- **Maaz Khan** *(Role: Backend & Database Integration)*  
+- **Shayan Adnan** *(Role: UI & Update Module)*  
+- **Farrukh Iqbal** *(Role: Search & Delete Functionality)*  
+- **Mahnoor Arshad** *(Role: Form Layout & UX)*  
+- **Hafiz Minhal Ali** *(Role: Database Schema & Testing)*  
 
 🎓 **4th Semester - Database Project**  
 🏫 **DHA Suffa University**
@@ -73,8 +73,6 @@ All data operations (Insert, Update, Delete, Search) are performed using .NET.
 ---
 
 ## 🧾 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-> 📘 **Note:** This project is developed purely for **educational purposes** as part of a 4th Semester Database course at **DHA Suffa University**.  
-> It is not intended for commercial use or real-world deployment.
+> 📘 **Note:** Developed for academic purposes only, not for commercial use.  
