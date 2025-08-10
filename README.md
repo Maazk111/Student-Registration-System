@@ -25,7 +25,7 @@ Built as a 4th semester **Database Project** at **DHA Suffa University**.
 | ------------- | --------------------- |
 | C# (.NET)     | Windows Forms UI      |
 | SQL Server    | Backend database      |
-| ADO.NET       | Database connectivity |
+| DOT.NET       | Database connectivity |
 | Visual Studio | Project IDE           |
 
 ---
@@ -38,22 +38,7 @@ The database is normalized into at least **3 tables**, based on the case study:
 - `Contacts` – phone, email
 - `Addresses` – city, region, address
 
-All data operations (Insert, Update, Delete, Search) are performed using ADO.NET.
-
----
-
-## 📂 Project Structure
-
-Student-Registration-System/
-├── Forms/ # Form1, Form2, Form3, Form4
-├── Models/ # Student.cs, Contact.cs, Address.cs
-├── Resources/ # Images, logos
-├── Registration.cs
-├── StudentModel.cs
-├── App.config
-├── README.md
-├── .gitignore
-└── CaseStudy-Students.docx
+All data operations (Insert, Update, Delete, Search) are performed using .NET.
 
 ---
 
