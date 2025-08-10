@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|f:\\maaz dha suffa\\4th semester\\database  systems\\database project final\\database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|f:\\maaz dha suffa\\4th semester\\database  systems\\database project final\\database project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|f:\\maaz dha suffa\\4th semester\\database  systems\\database project final\\database project\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\database project\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D667FD3B-2A0A-41AD-9D95-1AA409B3DB34}|Database Project\\Database Project.csproj|solutionrelative:database project\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Database Project\\Form4.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:00:04.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T15:00:04.798Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Database Project\\Form1.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T08:18:41.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T08:18:41.074Z"
             },
             {
               "$type": "Document",
@@ -90,7 +88,7 @@
               "RelativeDocumentMoniker": "Database Project\\Form4.cs",
               "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs",
               "RelativeToolTip": "Database Project\\Form4.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowEsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwEsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T08:27:58.14Z",
               "EditorCaption": ""
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Database Project\\Form3.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T08:59:19.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T08:59:19.602Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Database Project\\Registration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T08:21:48.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T08:21:48.787Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form4.cs [Design]",
               "RelativeToolTip": "Database Project\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T09:02:59.059Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-23T09:02:59.059Z"
             },
             {
               "$type": "Document",
@@ -142,8 +137,7 @@
               "ToolTip": "F:\\Maaz DHA SUFFA\\4th Semester\\Database  Systems\\Database Project Final\\Database Project\\Form2.cs [Design]",
               "RelativeToolTip": "Database Project\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:52:03.131Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-16T18:52:03.131Z"
             },
             {
               "$type": "Document",
@@ -179,8 +173,7 @@
               "RelativeToolTip": "Database Project\\Form2.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAUwFYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T09:15:06.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T09:15:06.608Z"
             }
           ]
         },

@@ -1,7 +1,7 @@
 # 🎓 Student Registration Management System
 
 A Windows Forms-based desktop application developed in **C# (.NET)** with **SQL Server** to manage student records.  
-Built as a 4th semester **Database Project** at **CESU Pakistan (Computer Engineering and Sciences University)**.
+Built as a 4th semester **Database Project** at **DHA Suffa University**.
 
 ---
 
@@ -62,8 +62,6 @@ Student-Registration-System/
 | Register Form                         | Search Student                    | Update Form                       |
 | ------------------------------------- | --------------------------------- | --------------------------------- |
 | ![Register](screenshots/register.png) | ![Search](screenshots/search.png) | ![Update](screenshots/update.png) |
-
-
 
 ---
 
